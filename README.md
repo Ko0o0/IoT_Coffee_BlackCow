@@ -1,6 +1,6 @@
-## IoT_Coffee_BlackCow
+# IoT_Coffee_BlackCow
 
-## IoT_커피흑우
+# IoT_커피흑우
 
 ## 프로젝트 설명  
 * ### 생활 속 불편함  
